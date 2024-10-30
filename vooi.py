@@ -313,7 +313,7 @@ class VooiDC:
 
                 time.sleep(1)
 
-            self.countdown(10 * 60)
+            self.countdown(3 * 60)
 
 if __name__ == "__main__":
     client = VooiDC()
